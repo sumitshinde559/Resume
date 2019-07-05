@@ -51,19 +51,19 @@ filter:(opacity=50);
 }
 
 .fa-certificate {
-  margin-top: 25px;
+  margin-top: 1.5rem;
 }
 .fa-file-alt {
-  margin-top: 25px;
+  margin-top: 1.5rem;
 }
 .fa-windows {
-  margin-top: 25px;
+  margin-top: 1.5rem;
 }
 .fa-laptop-code {
-  margin-top: 25px;
+  margin-top: 1.5rem;
 }
 .fa-toolbox {
-  margin-top: 24px;
+  margin-top: 1.5rem;
 }
 
 .rowsetting h2 {
@@ -313,10 +313,7 @@ filter:(opacity=50);
 		height: 600px;
 		text-align: center;
 	  }
-	  .contact ul li{
-		margin-left: 0rem;
-		text-align: center !important;
-	  }
+
 	  #facebook,#linkedin,#twitter,#instagram{
 		padding: 5%;
 	}
@@ -355,7 +352,7 @@ filter:(opacity=50);
   
   
   .contactnum {
-	margin-top: 15rem !important;
+	margin-top: 12rem !important;
 	text-align: center;
   }
 }
